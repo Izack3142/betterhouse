@@ -1,6 +1,6 @@
 # betterhouse
 
-A new Flutter project.
+A new Betterhouse project.
 
 ## Getting Started
 
